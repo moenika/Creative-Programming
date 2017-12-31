@@ -10,3 +10,5 @@ During the course of the semester, you’ll learn how to write code for a variet
 Along the way, we’ll also look at historical and contemporary figures in the arts and computer science who have shaped how we use computers as creative tools, and we’ll explore code from a critical, humanistic perspective.
 
 We’ll be starting from scratch, so if you don’t know anything about writing software that’s totally ok! For those that have experience coding, we’ll be using ideas from graphics programming that might be new to you, and I encourage you to take the cool things you know and apply them to our projects. For everyone in the class: talk to and help each other. Classes shouldn’t be one-way information machines, but a way to share ideas and skills between each other.
+
+GO TO THE WIKI FOR MY FINAL PROJECT EXECUTION
